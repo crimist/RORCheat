@@ -1,8 +1,5 @@
 # RORCheat
-Risk Of Rain Cheat
 
-Risk of rain cheat I made.
+An external C# Risk of Rain cheat I made.
 
-First cheat I'd ever made so I know it's bad.
-
-I'm better now.
+First time using Windows API so I know it's bad.
